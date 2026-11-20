@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "5.182.4.101",
+    "port": "2445",
+    "online": "10",
+    "maxOnline": "1000",
+    "color": "#FF0000",
+    "x2": true,
+    "x2cordx": 0.0,
+    "x2cordy": 0.0,
+    "key": "sweetrussia",
+    "name": "GREEN",
+    "firstName": "GREEN",
+    "secondName": "Russia",
+    "url": "https://github.com",
+    "testServerId": null
+  }
+]
